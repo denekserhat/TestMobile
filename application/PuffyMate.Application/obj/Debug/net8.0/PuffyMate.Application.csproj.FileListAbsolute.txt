@@ -1,0 +1,12 @@
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\bin\Debug\net8.0\PuffyMate.Application.deps.json
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\bin\Debug\net8.0\PuffyMate.Application.dll
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\bin\Debug\net8.0\PuffyMate.Application.pdb
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.AssemblyInfoInputs.cache
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.AssemblyInfo.cs
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.csproj.CoreCompileInputs.cache
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.sourcelink.json
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.dll
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\refint\PuffyMate.Application.dll
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\PuffyMate.Application.pdb
+C:\Users\denek\source\repos\PuffyMate\application\PuffyMate.Application\obj\Debug\net8.0\ref\PuffyMate.Application.dll

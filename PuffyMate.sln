@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "application", "application", "{03069E88-8AF6-4F39-A8D1-B707A1D7D60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuffyMate.Application", "application\PuffyMate.Application\PuffyMate.Application.csproj", "{BCEBFDEB-39EE-4427-89B0-6B0C04651AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuffyMate.Shared", "application\PuffyMate.Shared\PuffyMate.Shared.csproj", "{72A02EE0-546C-427C-A88C-CC1717618064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuffyMate.DataAccess", "application\PuffyMate.DataAccess\PuffyMate.DataAccess.csproj", "{E80BD491-8F01-4E7F-993F-C3B5D39D3D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuffyMate.Entities", "application\PuffyMate.Entities\PuffyMate.Entities.csproj", "{0752C20A-38B9-4377-9D02-486994B6370D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentation", "{D96CAEF1-6596-4BB4-9F73-3C0483976CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuffyMate.Api", "presentation\PuffyMate.Api\PuffyMate.Api.csproj", "{20688F16-1BA1-42EF-A55D-EC8DB2B1D838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEBFDEB-39EE-4427-89B0-6B0C04651AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEBFDEB-39EE-4427-89B0-6B0C04651AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEBFDEB-39EE-4427-89B0-6B0C04651AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEBFDEB-39EE-4427-89B0-6B0C04651AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A02EE0-546C-427C-A88C-CC1717618064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A02EE0-546C-427C-A88C-CC1717618064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A02EE0-546C-427C-A88C-CC1717618064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A02EE0-546C-427C-A88C-CC1717618064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80BD491-8F01-4E7F-993F-C3B5D39D3D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80BD491-8F01-4E7F-993F-C3B5D39D3D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80BD491-8F01-4E7F-993F-C3B5D39D3D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80BD491-8F01-4E7F-993F-C3B5D39D3D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0752C20A-38B9-4377-9D02-486994B6370D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0752C20A-38B9-4377-9D02-486994B6370D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0752C20A-38B9-4377-9D02-486994B6370D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0752C20A-38B9-4377-9D02-486994B6370D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20688F16-1BA1-42EF-A55D-EC8DB2B1D838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20688F16-1BA1-42EF-A55D-EC8DB2B1D838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20688F16-1BA1-42EF-A55D-EC8DB2B1D838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20688F16-1BA1-42EF-A55D-EC8DB2B1D838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCEBFDEB-39EE-4427-89B0-6B0C04651AD1} = {03069E88-8AF6-4F39-A8D1-B707A1D7D60D}
+		{72A02EE0-546C-427C-A88C-CC1717618064} = {03069E88-8AF6-4F39-A8D1-B707A1D7D60D}
+		{E80BD491-8F01-4E7F-993F-C3B5D39D3D36} = {03069E88-8AF6-4F39-A8D1-B707A1D7D60D}
+		{0752C20A-38B9-4377-9D02-486994B6370D} = {03069E88-8AF6-4F39-A8D1-B707A1D7D60D}
+		{20688F16-1BA1-42EF-A55D-EC8DB2B1D838} = {D96CAEF1-6596-4BB4-9F73-3C0483976CB8}
+	EndGlobalSection
+EndGlobal

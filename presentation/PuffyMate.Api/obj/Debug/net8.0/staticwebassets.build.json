@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X8q9BJJEnuQdwxsTOmPbirZc1lZZUD2POAkn6oV5jh8=",
+  "Source": "PuffyMate.Api",
+  "BasePath": "_content/PuffyMate.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
